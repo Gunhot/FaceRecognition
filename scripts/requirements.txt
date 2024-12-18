@@ -1,0 +1,9 @@
+torch
+torchvision
+numpy
+opencv-python
+rospy
+cv_bridge
+sensor_msgs
+vision_msg
+Pillow
